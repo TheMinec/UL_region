@@ -1,0 +1,17 @@
+{
+  "name": "Ustí nad Labem",
+  "latitude": 50.6,
+  "longitude": 14,
+  "population": 90866,
+  "population_orp": 18433,
+
+  "time_distance": {
+    "rail": [{"TP":  19}, {"RD":  45}],
+    "road": [{"TP": 22}]
+  },
+
+  "km_distance": {
+    "road": [{"TP":  21.7}],
+    "rail": [{"TP":  17}]
+  }
+}
