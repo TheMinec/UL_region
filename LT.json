@@ -1,0 +1,15 @@
+{
+  "name": "Litoměřice",
+  "latitude": 50.534,
+  "longitude": 14.132,
+  "population": 22767,
+  "population_orp": 58642,
+  "time_distance": {
+    "rail": [{"LV": 11}, {"UL": 26}],
+    "road": [{"LV": 8}, {"UL": 28}, {"RD": 20}]
+  },
+  "km_distance": {
+    "road": [{"LV": 4.0}, {"UL": 21.0}, {"RD": 18.0}],
+    "rail": [{"LV": 7}, {"UL": 26}]
+  }
+}
